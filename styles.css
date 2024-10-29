@@ -88,3 +88,11 @@ textarea{
 .hidden {
     display: none;
 }
+#mnl {
+    height: fit-content;
+    align-items: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
